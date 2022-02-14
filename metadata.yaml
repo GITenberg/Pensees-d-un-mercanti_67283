@@ -1,0 +1,34 @@
+_repo: Pensees-d-un-mercanti_67283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Veber, Pierre
+    aliases:
+    - Veber, Pierre-Eugene
+    - Veber, Pierre-Eugène
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38808'
+    url: http://www.gutenberg.org/2009/agents/38808
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Pierre_Veber
+    - http://en.wikipedia.org/wiki/Pierre_V%C3%A9ber
+description: ''
+gutenberg_issued: '2022-01-30'
+identifiers:
+  gutenberg: '67283'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k58333904
+pgterms:marc905: 20210613043759veber
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Ferenczi,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pensées d'un mercanti
+url: http://www.gutenberg.org/ebooks/67283
